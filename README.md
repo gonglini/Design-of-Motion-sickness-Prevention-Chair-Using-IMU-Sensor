@@ -6,4 +6,8 @@ Subsequently, when the controller transmits data to move the motor installed in 
 the three motors installed in the chair move in the x-axis, y-axis, and z-axis directions respectively,
 and the chair itself remains still even if the vehicle body shakes during the movement
 
+*********And the code is attached to the issue as a photo, so please refer to it.**********
+
 However, the Z axis, or up and down, could not be adjusted through this project. This part will be improved later.
+
+
